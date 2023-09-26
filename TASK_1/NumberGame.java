@@ -6,7 +6,7 @@ public class NumberGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Using random function
-        Random random = new Random();
+        Random random = new Random(); 
         
         // define the range of the number guess
         int minRange = 1;
